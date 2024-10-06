@@ -31,7 +31,7 @@ Esta é uma API para gerenciamento de notícias, permitindo listar, detalhar, cr
 
 ## Passo a Passo
 1. **Clone este repositório**:
-   - git clone https://github.com/Paulo-S-Nascimento/news-api.git
+   - git clone https://github.com/Franklin748/News-api
 
 ## Abra a pasta do projeto:
 - cd caminho/para/a/pasta
