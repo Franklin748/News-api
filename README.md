@@ -124,7 +124,7 @@ Fornece exemplos de requisições para os endpoints da News API. Abaixo estão d
 
 Você pode acessar a coleção completa da API no Postman através deste link:
 
-[![Postman Collection](https://run.pstmn.io/button.svg)](https://www.postman.com/flight-candidate-50490402/ca4f632b-c020-4fb8-a347-3fb8060222b5/collection/vevu2x2/news-api)
+[![Postman Collection](https://run.pstmn.io/button.svg)](https://www.postman.com/supply-physicist-15348630/news-api/request/s33swl5/delete-data-copy)
 
 ---
  
